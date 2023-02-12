@@ -1,0 +1,141 @@
+body{
+    display:flex;
+    flex-direction:column;
+}
+.header{
+    display:flex;
+  
+   
+    
+    
+    
+}
+.lheader{
+    display:flex;
+   
+    flex-wrap:wrap;
+    width:125px;
+    font-size:24px;
+    color:#F9FAF8;
+    font-weight:bold;
+    text-align:center;
+    width:10%;
+    
+}
+.lheader img{
+    width:125px;
+    height:100px;
+}
+.top{
+    background-color:#1F2937;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding:10px 50px 40px 50px;
+    display:flex;
+    flex-direction:column;
+    gap:50px;
+}
+.rheader{
+    display:flex;
+    
+    gap:20px;
+    width:90%;
+    justify-content:flex-end;
+    
+}
+.rheader a{
+    text-decoration-line:none;
+    font-size:18px;
+    color:#E5E7EB;
+}
+.content{
+    display:flex;
+    gap:20px;
+    
+    
+
+
+
+}
+.rcontent img{
+    width:450px;
+    height:300px;
+
+}
+.lcontent{
+    
+    width:50%;
+    display:flex;
+    flex-direction:column; 
+    justify-content:center;
+    padding:30px;
+
+}
+.information{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bolder;
+    font-size:48px;
+    color:#F9FAF8;
+}
+.paragraph{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:18px;
+    color:#E5E7Eb;
+}
+.buttons{
+    
+    padding:3px;
+}
+.buttons button{
+    padding:3px 15px 3px 15px;
+    background-color:#3882f6;
+    color:white;
+    font-weight:bold;
+    border-radius:5px;
+}
+.reviewcontainer img{
+    width:150px; 
+    height:150px;
+    
+
+}
+.reviewcontainer{
+    display:flex;
+   
+    flex-wrap:wrap;
+    gap:30px;
+    justify-content:center;
+}
+.cute{
+    color:36px;
+    font-weight:bolder;
+    color:#1f2937;
+   
+    display:flex;
+    justify-content:center;
+    margin:20px;
+    padding:30px;
+    justify-content:center;
+}
+.grey div{
+    width:150px;
+    height:150px;
+}
+.brown div{
+    width:150px;
+    height:150px;
+}
+.white div{
+    width:150px;
+    height:150px;
+}
+.black div{
+    width:150px;
+    height:150px;
+}
+
+
+
+
+
+
+
